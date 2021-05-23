@@ -7,4 +7,9 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 ```
  git clone https://github.com/umitavc/kodluyoruzilkrepo.git
 ```
+# Usage
+```
+cd kodluyoruzilkrepo
+code .
+```
 
